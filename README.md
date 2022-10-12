@@ -12,6 +12,7 @@ The WIP submission PDFs and video can be found linked below.
 ## Game Design Planning
 
 PDF: [Link](https://github.com/alecsantos96/I-Game-Robot/blob/main/Game-Design-Planning/Game%20Design%20Planning%20Presentation.pdf)
+
 Video: (To be added soon)
 
 ## Concept Art Design
