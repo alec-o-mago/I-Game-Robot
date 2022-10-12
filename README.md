@@ -3,20 +3,25 @@
 
 My submission to the "I, Game &amp; Robot" hackathon by DeAuto.
 
-I'm participating in all 4 categories and my WIP submissions for each of them can be seen on each of the folders above.
+I'm participating in all 4 categories.
+
+All files of my WIP submissions for each of them can be seen on each of the folders above.
+
+The WIP submission PDFs and video can be found linked below.
 
 ## Game Design Planning
 
-(T.B.A)
+PDF: [Link](https://github.com/alecsantos96/I-Game-Robot/blob/main/Game-Design-Planning/Game%20Design%20Planning%20Presentation.pdf)
+Video: (To be added soon)
 
 ## Concept Art Design
 
-(T.B.A)
+PDF: [Link](https://github.com/alecsantos96/I-Game-Robot/blob/main/Concept-Art-Design/Concept%20Art%20Design%20Presentation.pdf)
 
 ## Game Feature Design
 
-(T.B.A)
+PDF: [Link](https://github.com/alecsantos96/I-Game-Robot/blob/main/Game-Feature-Design/Game%20Feature%20Design%20Presentation.pdf)
 
 ## Monetization Model Design
 
-(T.B.A)
+PDF: [Link](https://github.com/alecsantos96/I-Game-Robot/blob/main/Monetization-Model-Design/Monetization%20Model%20Design%20Presentation.pdf)
