@@ -1,5 +1,6 @@
 # EvoCar - Car Battle Arena (I, Game &amp; Robot Hackathon)
 
+![logo](logo-readme.png)
 
 My submission to the "I, Game &amp; Robot" hackathon by DeAuto.
 
