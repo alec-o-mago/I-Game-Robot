@@ -1,5 +1,6 @@
 # EvoCar - Car Battle Arena (I, Game &amp; Robot Hackathon)
 
+![logo](logo-readme.png)
 
 My submission to the "I, Game &amp; Robot" hackathon by DeAuto.
 
@@ -15,7 +16,7 @@ Gitcoin: [Link](https://gitcoin.co/issue/29356)
 
 PDF: [Link](https://github.com/alecsantos96/I-Game-Robot/blob/main/Game-Design-Planning/Game%20Design%20Planning%20Presentation.pdf)
 
-Video: (To be added soon)
+Video: [Link](https://www.youtube.com/watch?v=2X1zmhRhzWU)
 
 ## Concept Art Design
 
