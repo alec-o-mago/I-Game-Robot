@@ -5,7 +5,7 @@ My submission to the "I, Game &amp; Robot" hackathon by DeAuto.
 
 I'm participating in all 4 categories.
 
-All files of my WIP submissions for each of them can be seen on each of the folders above.
+All source files of my WIP submissions for each of them can be seen on each of the folders above.
 
 The WIP submission PDFs and video can be found linked below.
 
